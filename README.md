@@ -1,4 +1,4 @@
-#I tried to design a project with animation
+# I tried to design a project with animation
 
-##Screen
+## Screen
 ![](screen.gif)
